@@ -19,14 +19,14 @@ HOTLIST_SOURCE = "bilibili"  # 在这里修改你想看的热搜源
 
 # 3. 天气城市设置
 # 高德天气城市代码（默认：天津市津南区 120112，北京是 110000）
-CITY_ADCODE = "310000"                      
+CITY_ADCODE = "652801"                      
 
 # 日出日落位置（支持拼音，如 "Beijing" 或 "Haidian,Beijing"）
-WTTR_LOCATION = "Shanghai"            
+WTTR_LOCATION = "Kuerle"            
 
 # 4. 屏幕显示文字
 # 天气页面左上角的自定义标题，你可以改成 "北京市 | 我的温馨小窝" 等等
-CITY_DISPLAY_NAME = "上海市 | 高麦同学的家"      
+CITY_DISPLAY_NAME = "库尔勒市| 灰色的小屋"      
 
 
 # =====================================================================
