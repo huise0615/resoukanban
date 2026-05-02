@@ -22,7 +22,7 @@ HOTLIST_SOURCE = "zhihu"  # 在这里修改你想看的热搜源
 CITY_ADCODE = "652801"                      
 
 # 日出日落位置（支持拼音，如 "Beijing" 或 "Haidian,Beijing"）
-WTTR_LOCATION = "Kuerle"            
+WTTR_LOCATION = "Bayinguoleng"            
 
 # 4. 屏幕显示文字
 # 天气页面左上角的自定义标题，你可以改成 "北京市 | 我的温馨小窝" 等等
